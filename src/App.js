@@ -20,7 +20,6 @@ import './components/Card.css'
       fetchData()
     }, []);
   
-    // console.log(user);
   
     return (
       <>
